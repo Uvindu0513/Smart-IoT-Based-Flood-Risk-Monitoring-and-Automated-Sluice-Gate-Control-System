@@ -22,6 +22,9 @@ The system continuously monitors water level changes and environmental condition
 - ⏱️ **Overflow Time Prediction**
   - Estimates the remaining time before reaching critical water levels.
 
+- ⏱️ **Rain Fall Intensity**
+  - A Tipping Bucket Guage system is used with some calculations.
+
 - 🌧️ **Rainfall Monitoring**
   - Detects rain start and stop times.
   - Measures rainfall intensity using a tipping bucket rain gauge.
@@ -93,6 +96,17 @@ All collected data, system status, and predictions are uploaded to the **Blynk I
 - Remote manual gate control through mobile application
 
 ---
+
+## 📷 Project Images
+<img width="4160" height="3120" alt="IMG-20260724-WA0010" src="https://github.com/user-attachments/assets/6e465350-fe06-4b0d-8025-bc9919f362fc" />
+<img width="3024" height="4032" alt="IMG-20260723-WA0036(1)" src="https://github.com/user-attachments/assets/f0b5fa1b-9fdf-4fb6-9ab8-338554215fc4" />
+<img width="3024" height="4032" alt="IMG-20260724-WA0090" src="https://github.com/user-attachments/assets/ad39ee0d-f9c4-4b7d-92bc-ef5953778fbd" />
+<img width="3024" height="4032" alt="IMG-20260724-WA0089" src="https://github.com/user-attachments/assets/c699e40c-54be-4320-bc28-d177633b5590" />
+<img width="3024" height="4032" alt="IMG-20260724-WA0079" src="https://github.com/user-attachments/assets/2266867c-d43f-4827-a5f4-99d83c4b3fb4" />
+<img width="3024" height="4032" alt="IMG-20260724-WA0074" src="https://github.com/user-attachments/assets/96d525e8-0019-43f3-a4aa-f9ad39c5ab70" />
+<img width="3024" height="4032" alt="IMG-20260724-WA0068" src="https://github.com/user-attachments/assets/83302bdd-8e2f-43f9-bb92-dcd45ac5caeb" />
+<img width="4160" height="3120" alt="IMG-20260724-WA0013" src="https://github.com/user-attachments/assets/a3d329ee-c896-4343-9e30-73b1fd727a8d" />
+
 
 ## 🔑 Keywords
 
