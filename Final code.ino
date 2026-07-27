@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6A-K4N4Qv"
-#define BLYNK_TEMPLATE_NAME "FLOOD"
-#define BLYNK_AUTH_TOKEN    "ebxkfVnk_9Gi5V4_g3G2OkdBstnUsG1Z"
+#define BLYNK_TEMPLATE_ID "TMPL6A-KXNIWv"
+#define BLYNK_TEMPLATE_NAME "FLOODsf"
+#define BLYNK_AUTH_TOKEN    "ebxkfVnk_9Gi5V4_g3G2OkdBstfsifshfZ"
 
 #include "Adafruit_VL53L0X.h"
 #include <Stepper.h>
@@ -19,8 +19,8 @@
 
 #include <Adafruit_NeoPixel.h>
 
-char ssid[] = "Redmi";
-char pass[] = "12345678";
+char ssid[] = "********";//WIFI ID
+char pass[] = "********";//WIFI PASSWORD
 
 const int MAX_DISTANCE_EMPTY = 178; 
 const int STEPS_PER_REVOLUTION = 2048;
@@ -44,7 +44,7 @@ const int SWITCH_CCW_PIN = 18;
 
 #define DHTTYPE DHT22
 
-const String TARGET_PHONE = "+94759195822";
+const String TARGET_PHONE = "+94*********";//Add your phone number.
 
 Stepper myStepper(STEPS_PER_REVOLUTION, 25, 27, 26, 14);
 Adafruit_VL53L0X lox = Adafruit_VL53L0X();
